@@ -1,0 +1,166 @@
+.logo {
+
+    background-image: url(Rectangle287.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    margin-right: 120px;
+    width: 1;
+}
+
+
+
+.vector {  
+    width: 640px;
+    height: 720px;
+    background-image: url(gus.png);
+
+}
+
+.text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.text1 {
+    width: 573px;
+    height: 520px;
+    background-color: white;
+}
+
+h2 {
+    width: 262px;
+    height: 24px;
+    font-size: 16px;
+    margin-top: 57px;
+    margin-left: 56px;
+}
+
+
+h3 {
+    font-size: 24px;
+    width: 345px;
+    height: 28px;
+    margin-left: 56px;
+    color: #FF6B0A;
+}
+
+h1 {
+    width: 517px;
+    height: 93px;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-left: 56px;
+}
+
+
+h5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #121314;
+    width: 440.18px;
+    height: 96px;
+    margin-left: 56px;
+}
+
+
+.link1 {
+    color: white;
+}
+
+
+.link {
+    margin-left: 56px;
+    width: 172px;
+    height: 48px;
+    background: #FF6B0A;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.photo {
+    margin-left: 665px;
+}
+
+
+h6 {
+
+    font-size: 48px;
+    color: #121314;
+}
+
+
+.text2 {
+    margin-left: 365px;
+}
+
+.text3 {
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #121314;
+margin-left: px;
+}
+
+
+.facts {
+    width: 1360px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.facts1 {
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+/* black */
+
+color: #121314;
+ 
+display: flex;
+justify-content: center;
+}
+
+
+li {
+    width: 374px;
+}
+
+
+.facts2 {
+
+
+
+font-size: 16px;
+line-height: 24px;
+
+color: #121314;
+
+
+
+}
+
+.facts3 {
+    display: flex;
+    justify-content: center;
+}
